@@ -1,0 +1,11 @@
+C:\Users\piero\Documents\School\NiOP\Kolekcije_forms\Kolekcije_forms\bin\Debug\Kolekcije_forms.exe.config
+C:\Users\piero\Documents\School\NiOP\Kolekcije_forms\Kolekcije_forms\bin\Debug\Kolekcije_forms.exe
+C:\Users\piero\Documents\School\NiOP\Kolekcije_forms\Kolekcije_forms\bin\Debug\Kolekcije_forms.pdb
+C:\Users\piero\Documents\School\NiOP\Kolekcije_forms\Kolekcije_forms\obj\Debug\Kolekcije_forms.csproj.AssemblyReference.cache
+C:\Users\piero\Documents\School\NiOP\Kolekcije_forms\Kolekcije_forms\obj\Debug\Kolekcije_forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\piero\Documents\School\NiOP\Kolekcije_forms\Kolekcije_forms\obj\Debug\Kolekcije_forms.Form1.resources
+C:\Users\piero\Documents\School\NiOP\Kolekcije_forms\Kolekcije_forms\obj\Debug\Kolekcije_forms.Properties.Resources.resources
+C:\Users\piero\Documents\School\NiOP\Kolekcije_forms\Kolekcije_forms\obj\Debug\Kolekcije_forms.csproj.GenerateResource.cache
+C:\Users\piero\Documents\School\NiOP\Kolekcije_forms\Kolekcije_forms\obj\Debug\Kolekcije_forms.csproj.CoreCompileInputs.cache
+C:\Users\piero\Documents\School\NiOP\Kolekcije_forms\Kolekcije_forms\obj\Debug\Kolekcije_forms.exe
+C:\Users\piero\Documents\School\NiOP\Kolekcije_forms\Kolekcije_forms\obj\Debug\Kolekcije_forms.pdb
